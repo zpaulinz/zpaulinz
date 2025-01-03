@@ -2,9 +2,11 @@
   <h2>Hi! <img src="https://github.com/zpaulinz/zpaulinz/blob/main/game.gif" width="30"/> I'm Paulina</h2>
 </div>
 
+<!--
 <div align="right" style="margin-bottom: 50px;">
   <img src="https://komarev.com/ghpvc/?username=zpaulinz&color=blueviolet" alt="Profile Views" />
 </div>
+-->
 
 <div align="left" style="margin-bottom: 50px;">
   <h3><b>● GitHub Stats:</b></h3>
