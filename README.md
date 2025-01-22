@@ -23,7 +23,7 @@
 <div style="text-align:center;">
   <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,git,python,css,html,bootstrap,ps,postgres,github&theme=light" alt="Skills Icons" style="max-width: 48px; height: 48px;">
+      <img src="https://skillicons.dev/icons?i=vscode,git,python,css,html,bootstrap,ps,postgres,github,figma&theme=light" alt="Skills Icons" style="max-width: 48px; height: 48px;">
     </a>
   </div>
 </div>
