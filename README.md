@@ -7,6 +7,13 @@
   <img src="https://komarev.com/ghpvc/?username=zpaulinz&color=blueviolet" alt="Profile Views" />
 </div>
 -->
+<div align="left" style="margin-bottom: 100px;">
+  <h3><b>● Languages:</b></h3>
+</div>  
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zpaulinz&hide_progress=true&layout=compact&cache_seconds=1" alt="Top Langs">
+</div>
 
 <div align="left" style="margin-bottom: 100px;">
   <h3><b>● GitHub Stats:</b></h3>
