@@ -23,7 +23,7 @@
 [![Static Badge](https://img.shields.io/badge/PyQt5-brightgreen?style=for-the-badge&color=%231D00FA)](https://github.com/zpaulinz?tab=repositories&q=PyQt5&type=&language=)
 [![Static Badge](https://img.shields.io/badge/PYTHON-brightgreen?style=for-the-badge&color=%230F1FFA)](https://github.com/zpaulinz?tab=repositories&q=PYTHON&type=&language=)
 [![Static Badge](https://img.shields.io/badge/CSS-brightgreen?style=for-the-badge&color=%236600FF)](https://github.com/zpaulinz?tab=repositories&q=CSS&type=&language=)
-[![Static Badge](https://img.shields.io/badge/Bootstrap-brightgreen?style=for-the-badge&color=rgb(115%2C%2044%2C%20189))](https://github.com/zpaulinz?tab=repositories&q=Bootstrap&type=&language=)
+[![Static Badge](https://img.shields.io/badge/Bootstrap-brightgreen?style=for-the-badge&color=rgb(115%2C%2044%2C%20189))](https://github.com/zpaulinz?tab=repositories&q=bootstrap5&type=&language=)
 [![Static Badge](https://img.shields.io/badge/HTML-brightgreen?style=for-the-badge&color=%23FF0033)](https://github.com/zpaulinz?tab=repositories&q=HTML&type=&language=)
 [![Static Badge](https://img.shields.io/badge/JAVASCRIPT-brightgreen?style=for-the-badge&color=%23FFD700)](https://github.com/zpaulinz?tab=repositories&q=JAVASCRIPT&type=&language=)
 
