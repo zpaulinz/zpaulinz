@@ -8,7 +8,7 @@
 </div>
 -->
 <div align="left" style="margin-bottom: 100px;">
-  <h3><b>● Languages:</b></h3>
+  <h2><b>● Languages</b></h2>
 </div>  
 
 <div>
@@ -16,7 +16,19 @@
 </div>
 
 <div align="left" style="margin-bottom: 100px;">
-  <h3><b>● GitHub Stats:</b></h3>
+  <h2><b>● Projects</b></h2>
+  <p> Click to find repositories by language:</p>
+</div>
+
+[![Static Badge](https://img.shields.io/badge/PyQt5-brightgreen?style=for-the-badge&color=%231D00FA)](https://github.com/zpaulinz?tab=repositories&q=PyQt5&type=&language=)
+[![Static Badge](https://img.shields.io/badge/PYTHON-brightgreen?style=for-the-badge&color=%230F1FFA)](https://github.com/zpaulinz?tab=repositories&q=PYTHON&type=&language=)
+[![Static Badge](https://img.shields.io/badge/CSS-brightgreen?style=for-the-badge&color=%236600FF)](https://github.com/zpaulinz?tab=repositories&q=CSS&type=&language=)
+[![Static Badge](https://img.shields.io/badge/Bootstrap-brightgreen?style=for-the-badge&color=rgb(115%2C%2044%2C%20189))](https://github.com/zpaulinz?tab=repositories&q=Bootstrap&type=&language=)
+[![Static Badge](https://img.shields.io/badge/HTML-brightgreen?style=for-the-badge&color=%23FF0033)](https://github.com/zpaulinz?tab=repositories&q=HTML&type=&language=)
+[![Static Badge](https://img.shields.io/badge/JAVASCRIPT-brightgreen?style=for-the-badge&color=%23FFD700)](https://github.com/zpaulinz?tab=repositories&q=JAVASCRIPT&type=&language=)
+
+<div align="left" style="margin-bottom: 100px;">
+  <h2><b>● GitHub Stats</b></h2>
 </div>  
 
 <div align="left">
@@ -24,7 +36,7 @@
 </div>
 
 <div align="left" style="margin-bottom: 100px;">
-  <h3><b>● Tech Stack:</b></h3>
+  <h2><b>● Tech Stack</b></h2>
 </div>
 
 <div style="text-align:center;">
@@ -36,11 +48,17 @@
 </div>
 
 <div align="left" style="margin-bottom: 100px;">
-  <h3><b>● GitHub Trophies:</b></h3>
+  <h2><b>● GitHub Trophies</b></h2>
 </div>
 
 <div align="left" style="margin-bottom: 100px;">
   <img src="https://github-profile-trophy.vercel.app/?username=zpaulinz&theme=discord&margin-w=15&margin-h=15&cache_seconds=1&title=-Stars,-Followers" alt="GitHub Trophies" />
 </div>
+
+
+
+
+
+
 
 
