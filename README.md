@@ -52,11 +52,8 @@
 </div>
 
 <div align="left" style="margin-bottom: 100px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=zpaulinz&theme=discord&margin-w=15&margin-h=15&cache_seconds=1&title=-Stars,-Followers" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zpaulinz&theme=discord&margin-w=5&margin-h=5&cache_seconds=1" alt="GitHub Trophies" />
 </div>
-
-
-
 
 
 
