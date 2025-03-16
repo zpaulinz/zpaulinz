@@ -40,8 +40,9 @@
 
 <div align="left" style="margin-bottom: 100px;">
   <img src="https://github-readme-stats.vercel.app/api?username=zpaulinz&show_icons=true&theme=midnight-purple&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_title=false&hide_rank=false&rank_icon=github&include_all_commits=false&show_owner=true&custom_title=_______&cache_seconds=1&timestamp=123456789" alt="GitHub Stats" />
-  
 </div>
+
+<div align="left" style="margin-bottom: 100px;">
   <h2><b>● Tech Stack</b></h2>
 </div>
 
