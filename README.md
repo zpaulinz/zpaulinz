@@ -1,6 +1,9 @@
+  <img style="width: 100%; height: auto; display: block;" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966">
 <div align="center" style="margin-bottom: 100px;">
   <h2>Hi! <img src="https://github.com/zpaulinz/zpaulinz/blob/main/game.gif" width="30"/> I'm Paulina</h2>
 </div>
+
+  <img style="width: 100%; height: auto; display: block;" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966">
 <!--
 <div align="right" style="margin-bottom: 50px;">
   <img src="https://komarev.com/ghpvc/?username=zpaulinz&color=blueviolet" alt="Profile Views" />
@@ -66,4 +69,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=zpaulinz&theme=discord&margin-w=5&margin-h=5&cache_seconds=1" alt="GitHub Trophies" />
 </div>
 
-  <img style="width: 100%; height: auto; display: block;" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966">
+
