@@ -53,14 +53,7 @@
     </a>
   </div>
 </div> -->
-
-<div style="text-align:center;">
-  <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,git,python,css,html,bootstrap,sass,ps,postgres,github,figma,javascript,pygame&theme=light" alt="Skills Icons" style="max-width: 48px; height: 48px;">
-    </a>
-  </div>
-</div>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,figma,html,css,sass,javascript,xcode,python,pygame,postgres,bootstrap,obsidian,django,ps&theme=light&perline=8)
 
 <div align="left" style="margin-bottom: 100px;">
   <h2><b>● GitHub Trophies</b></h2>
