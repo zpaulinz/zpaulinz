@@ -32,6 +32,8 @@
 [![Static Badge](https://img.shields.io/badge/HTML-brightgreen?style=for-the-badge&color=%23FF0033)](https://github.com/zpaulinz?tab=repositories&q=HTML5&type=&language=)
 [![Static Badge](https://img.shields.io/badge/JAVASCRIPT-brightgreen?style=for-the-badge&color=%23FFD700)](https://github.com/zpaulinz?tab=repositories&q=JAVASCRIPT&type=&language=)
 
+ <img style="width: 100%; height: auto; display: block;" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966">
+
 <div align="left" style="margin-bottom: 100px;">
   <h2><b>● GitHub Stats</b></h2>
 </div>  
@@ -43,7 +45,7 @@
 <div align="left" style="margin-bottom: 100px;">
   <h2><b>● Tech Stack</b></h2>
 </div>
- <img style="width: 100%; height: auto; display: block;" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966">
+
 <!--<div style="text-align:center;">
   <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px;">
     <a href="https://skillicons.dev">
