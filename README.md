@@ -1,7 +1,6 @@
 <div align="center" style="margin-bottom: 100px;">
   <h2>Hi! <img src="https://github.com/zpaulinz/zpaulinz/blob/main/game.gif" width="30"/> I'm Paulina</h2>
 </div>
-
 <!--
 <div align="right" style="margin-bottom: 50px;">
   <img src="https://komarev.com/ghpvc/?username=zpaulinz&color=blueviolet" alt="Profile Views" />
@@ -20,7 +19,7 @@
   <p>Click to find repositories by technology:</p>
 </div>
 
-[![Static Badge](https://img.shields.io/badge/Swift-black?style=for-the-badge&color=%23000000)](https://github.com/zpaulinz?tab=repositories&q=Swift&type=&language=)
+<!-- [![Static Badge](https://img.shields.io/badge/Swift-black?style=for-the-badge&color=%23000000)](https://github.com/zpaulinz?tab=repositories&q=Swift&type=&language=)-->
 [![Static Badge](https://img.shields.io/badge/PyQt5-brightgreen?style=for-the-badge&color=%231D00FA)](https://github.com/zpaulinz?tab=repositories&q=PyQt5&type=&language=)
 [![Static Badge](https://img.shields.io/badge/Django-darkblue?style=for-the-badge&color=%231A1AFA)](https://github.com/zpaulinz?tab=repositories&q=Django&type=&language=)
 [![Static Badge](https://img.shields.io/badge/PYTHON-brightgreen?style=for-the-badge&color=%230F1FFA)](https://github.com/zpaulinz?tab=repositories&q=PYTHON&type=&language=)
@@ -36,13 +35,20 @@
   <h2><b>● GitHub Stats</b></h2>
 </div>  
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zpaulinz&show_icons=true&theme=midnight-purple&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_title=false&hide_rank=false&rank_icon=github&include_all_commits=false&show_owner=true&custom_title=_______&cache_seconds=1&timestamp=123456789" alt="GitHub Stats" />
-</div>
-
 <div align="left" style="margin-bottom: 100px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=zpaulinz&show_icons=true&theme=midnight-purple&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_title=false&hide_rank=false&rank_icon=github&include_all_commits=false&show_owner=true&custom_title=_______&cache_seconds=1&timestamp=123456789" alt="GitHub Stats" />
+  
+</div>
   <h2><b>● Tech Stack</b></h2>
 </div>
+
+<!--<div style="text-align:center;">
+  <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,git,python,css,html,bootstrap,sass,ps,postgres,github,django,figma,javascript&theme=light" alt="Skills Icons" style="max-width: 48px; height: 48px;">
+    </a>
+  </div>
+</div> -->
 
 <div style="text-align:center;">
   <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px;">
@@ -52,8 +58,6 @@
   </div>
 </div>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,python,css,html,bootstrap,sass,ps,postgres,github,figma,javascript,pygame&theme=light)
-
 <div align="left" style="margin-bottom: 100px;">
   <h2><b>● GitHub Trophies</b></h2>
 </div>
@@ -62,7 +66,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=zpaulinz&theme=discord&margin-w=5&margin-h=5&cache_seconds=1" alt="GitHub Trophies" />
 </div>
 
-
-
-
-
+  <img style="width: 100%; height: auto; display: block;" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966">
